@@ -39,6 +39,7 @@
     "secure-env": "^1.2.0",
     "stripe": "^11.1.0",
     "uniqid": "^5.4.0"
+    
   },
   "devDependencies": {
     "mocha": "^8.2.1",
